@@ -1,7 +1,7 @@
 ## Tensorflow y javascript
 
 
-<h1 style="text-aling:center;">Introduccion</h1>
+<h1 style="text-aling:center;color:red;">Introduccion</h1>
 
 JavaScript es un leguaje de programación utilizado para dar vida a nuestra pagina web de parte del frontend, de forma que sin importar el lenguaje que tenga nuestro backend, el modelo seguirá funcionando 
 
